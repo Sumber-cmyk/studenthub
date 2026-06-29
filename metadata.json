@@ -1,0 +1,8 @@
+{
+  "name": "StudentHub Mongolia",
+  "description": "An award-winning modern website for Mongolian students, featuring competitions, scholarships, past exams, clubs, study spots, and a student dashboard. Built with a premium dark theme and Framer Motion animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
